@@ -3,7 +3,7 @@
 Step into a realm of rediscovery in image analysis with the Leukemia Cells Segmentation project. While the industry explores common and trending approaches, our initiative sets itself apart by utilizing potent Genetic and Simulated Annealing algorithms. This project rekindles the efficacy of a method often overlooked, aiming to elevate the segmentation of leukemia cell images by identifying and recoloring 3, 4, or 5 common colors within the images.
 
 <div align="center">
-  <img src="https://github.com/NimaVahdat/Leukemia-Cells-Segmentation/blob/main/result.png" width="70%">
+  <img src="https://raw.githubusercontent.com/NimaVahdat/Leukemia-Cells-Segmentation/main/result.png" width="70%">
 </div>
 
 
